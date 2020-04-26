@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FindITExpert", "FindITExpert\", "{903C8EB6-5896-4F41-911E-E3E5EF8E3A57}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53879"
+		Debug.AspNetCompiler.PhysicalPath = "FindITExpert\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53879\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53879"
+		Release.AspNetCompiler.PhysicalPath = "FindITExpert\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53879\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53879"
+		SlnRelativePath = "FindITExpert\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903C8EB6-5896-4F41-911E-E3E5EF8E3A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903C8EB6-5896-4F41-911E-E3E5EF8E3A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8DFCBF-D218-4409-8F24-26FCE429D14E}
+	EndGlobalSection
+EndGlobal
